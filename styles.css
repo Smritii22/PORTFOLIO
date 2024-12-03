@@ -87,11 +87,12 @@ footer {
 }
 /* About section photo styling */
 .about-photo {
-    width: 200px; /* Adjust width as per your requirement */
-    height: auto;
-    border-radius: 50%; /* Makes the photo round */
+     width: 200px;
+    height: 200px;
+    border-radius: 50%;
     margin-top: 20px;
     margin-bottom: 20px;
+    object-fit: cover;
 }
 
 footer p {
